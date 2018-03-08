@@ -1,0 +1,8 @@
+-------------------------------------------------------------------------------
+Test set: OrdemTest
+-------------------------------------------------------------------------------
+Tests run: 2, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 0.016 s <<< FAILURE! - in OrdemTest
+verifica(OrdemTest)  Time elapsed: 0.016 s  <<< FAILURE!
+java.lang.AssertionError: expected:<1> but was:<0>
+	at OrdemTest.verifica(OrdemTest.java:18)
+
